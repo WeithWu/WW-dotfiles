@@ -115,4 +115,3 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-export DISPLAY=114.214.213.105:0
